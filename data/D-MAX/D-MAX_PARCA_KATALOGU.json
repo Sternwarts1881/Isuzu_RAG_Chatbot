@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"D-MAX",
+    "parca_katalogu":
+[
+    {
+        "kod": "L4Q7738OB",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 5849,
+        "stok_adedi": 485
+    },
+    {
+        "kod": "J4P3990HS",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 13345,
+        "stok_adedi": 35
+    },
+    {
+        "kod": "H1V7897EK",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 10711,
+        "stok_adedi": 405
+    },
+    {
+        "kod": "R8X6372OX",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 3936,
+        "stok_adedi": 320
+    },
+    {
+        "kod": "S4X2269PJ",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 8836,
+        "stok_adedi": 426
+    },
+    {
+        "kod": "U6N6332YF",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 8166,
+        "stok_adedi": 479
+    },
+    {
+        "kod": "R6X5860IF",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 3422,
+        "stok_adedi": 382
+    },
+    {
+        "kod": "G5N8587CK",
+        "ad": "Amortisor",
+        "fiyat_tl": 1124,
+        "stok_adedi": 467
+    },
+    {
+        "kod": "Q5L5198QB",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 801,
+        "stok_adedi": 297
+    },
+    {
+        "kod": "J2N9772YJ",
+        "ad": "Aku-24V",
+        "fiyat_tl": 4742,
+        "stok_adedi": 495
+    },
+    {
+        "kod": "F7B2356NZ",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 4248,
+        "stok_adedi": 68
+    },
+    {
+        "kod": "O5Z4123TB",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 6492,
+        "stok_adedi": 236
+    },
+    {
+        "kod": "I3G2939VN",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 4464,
+        "stok_adedi": 383
+    }
+]}

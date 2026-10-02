@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "Z0TXVHCTJB0GTYYVD",
+        "satis_tarihi": "09/12/2021",
+        "garanti_bitis": "08/12/2026",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "30YXF06CPJNJ230FE",
+        "satis_tarihi": "01/04/2026",
+        "garanti_bitis": "31/03/2031",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "8J1SP3GZGLD7BKD4D",
+        "satis_tarihi": "08/03/2022",
+        "garanti_bitis": "07/03/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "U7Y75DKFDE5NUN1EZ",
+        "satis_tarihi": "15/09/2022",
+        "garanti_bitis": "14/09/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "JKJMJZ7HAGE2J50MH",
+        "satis_tarihi": "17/03/2024",
+        "garanti_bitis": "16/03/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "KJ52ZLKXMSX53Z63M",
+        "satis_tarihi": "23/03/2024",
+        "garanti_bitis": "22/03/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "KENDO",
+        "sasi_no": "RTB5PZ4A51WMB60XA",
+        "satis_tarihi": "12/09/2024",
+        "garanti_bitis": "11/09/2029",
+        "km_limiti": 2000000
+    }
+]

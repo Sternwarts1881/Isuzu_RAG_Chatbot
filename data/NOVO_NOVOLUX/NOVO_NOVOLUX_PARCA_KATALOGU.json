@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"NOVO_NOVOLUX",
+    "parca_katalogu":
+[
+    {
+        "kod": "V3I3293ZZ",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 14915,
+        "stok_adedi": 304
+    },
+    {
+        "kod": "L9E5964HY",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 6414,
+        "stok_adedi": 186
+    },
+    {
+        "kod": "P6S4863CE",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 13296,
+        "stok_adedi": 200
+    },
+    {
+        "kod": "R4V3895OV",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 870,
+        "stok_adedi": 180
+    },
+    {
+        "kod": "C5V9762CA",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 3014,
+        "stok_adedi": 137
+    },
+    {
+        "kod": "H2O7140RU",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 6011,
+        "stok_adedi": 444
+    },
+    {
+        "kod": "T5P6954YZ",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 4775,
+        "stok_adedi": 460
+    },
+    {
+        "kod": "H8V9278OB",
+        "ad": "Amortisor",
+        "fiyat_tl": 11378,
+        "stok_adedi": 120
+    },
+    {
+        "kod": "Z1O7511TY",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 14415,
+        "stok_adedi": 157
+    },
+    {
+        "kod": "K3T3527MF",
+        "ad": "Aku-24V",
+        "fiyat_tl": 8103,
+        "stok_adedi": 391
+    },
+    {
+        "kod": "R5D1750LF",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 5527,
+        "stok_adedi": 199
+    },
+    {
+        "kod": "I4Z9315PC",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 9533,
+        "stok_adedi": 305
+    },
+    {
+        "kod": "L8S1908JU",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 8389,
+        "stok_adedi": 445
+    }
+]}

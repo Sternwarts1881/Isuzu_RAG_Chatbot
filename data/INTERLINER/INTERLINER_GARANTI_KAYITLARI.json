@@ -1,0 +1,58 @@
+[
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "P3NE48N74TT1ZRCV3",
+        "satis_tarihi": "17/09/2023",
+        "garanti_bitis": "15/09/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "7J5UPZ971LUKW5H05",
+        "satis_tarihi": "19/09/2022",
+        "garanti_bitis": "18/09/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "77RUHWE530FD65NJ8",
+        "satis_tarihi": "24/02/2025",
+        "garanti_bitis": "23/02/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "5NPDFZYUC2194AYH0",
+        "satis_tarihi": "28/12/2023",
+        "garanti_bitis": "26/12/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "WGGJ5S9CEW7JF5XS9",
+        "satis_tarihi": "01/09/2023",
+        "garanti_bitis": "30/08/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "LUJX31AHHPRU6R9H0",
+        "satis_tarihi": "14/07/2023",
+        "garanti_bitis": "12/07/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "FKX8AA4GRJBT7PUTB",
+        "satis_tarihi": "28/10/2024",
+        "garanti_bitis": "27/10/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "INTERLINER",
+        "sasi_no": "ARCVXPW1ZDRSVJXEA",
+        "satis_tarihi": "28/09/2025",
+        "garanti_bitis": "27/09/2030",
+        "km_limiti": 1000000
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "VGVBSKV62B6ZU5CUV",
+        "satis_tarihi": "03/02/2023",
+        "garanti_bitis": "02/02/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "FPKF08Y1WPWAS81HH",
+        "satis_tarihi": "19/08/2022",
+        "garanti_bitis": "18/08/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "658PB4JJ82FJNZSMM",
+        "satis_tarihi": "03/10/2024",
+        "garanti_bitis": "02/10/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "2HYK9N1JH7HGSU1AR",
+        "satis_tarihi": "26/11/2022",
+        "garanti_bitis": "25/11/2027",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "A47ADD0JTZJA7SAAD",
+        "satis_tarihi": "09/09/2023",
+        "garanti_bitis": "07/09/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "8KB3CZ59SCAWJZM8M",
+        "satis_tarihi": "21/07/2024",
+        "garanti_bitis": "20/07/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "D78FXUP16G32ZCB5U",
+        "satis_tarihi": "25/03/2025",
+        "garanti_bitis": "24/03/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "AJ21B6E8SNH9RUGS7",
+        "satis_tarihi": "26/02/2023",
+        "garanti_bitis": "25/02/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "GRAND_NOVO",
+        "sasi_no": "THE4TT7J7FJFVA6SB",
+        "satis_tarihi": "09/07/2023",
+        "garanti_bitis": "07/07/2028",
+        "km_limiti": 2000000
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "JF4RG5U3DD6X81UKY",
+        "satis_tarihi": "14/02/2023",
+        "garanti_bitis": "13/02/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "WK5S1T3LRKT0CSS3U",
+        "satis_tarihi": "22/11/2024",
+        "garanti_bitis": "21/11/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "MAL77K0AJ86Z6L595",
+        "satis_tarihi": "24/05/2026",
+        "garanti_bitis": "23/05/2031",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "WRDLK9EJUXFGW5GHK",
+        "satis_tarihi": "26/05/2022",
+        "garanti_bitis": "25/05/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "YZ83A5ZC6KDHRJRWB",
+        "satis_tarihi": "27/05/2023",
+        "garanti_bitis": "25/05/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "D-MAX",
+        "sasi_no": "S73D26F0KCFVSU19P",
+        "satis_tarihi": "12/02/2023",
+        "garanti_bitis": "11/02/2028",
+        "km_limiti": 1500000
+    }
+]

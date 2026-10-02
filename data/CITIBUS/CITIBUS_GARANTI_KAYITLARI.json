@@ -1,0 +1,72 @@
+[
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "HJENATDH3XGL2HLTA",
+        "satis_tarihi": "06/04/2024",
+        "garanti_bitis": "05/04/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "7A9UVHA2FS7H9J73V",
+        "satis_tarihi": "24/03/2024",
+        "garanti_bitis": "23/03/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "PWBD02ZT5JY6Y5MM0",
+        "satis_tarihi": "27/06/2026",
+        "garanti_bitis": "26/06/2031",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "1RSY2LEUX6HR8M24H",
+        "satis_tarihi": "10/12/2024",
+        "garanti_bitis": "09/12/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "68PS4807VWT2L0EZS",
+        "satis_tarihi": "22/05/2025",
+        "garanti_bitis": "21/05/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "G4ECHMCRLEFSNER8W",
+        "satis_tarihi": "06/12/2023",
+        "garanti_bitis": "04/12/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "GD84KLMDR0KD76517",
+        "satis_tarihi": "01/04/2026",
+        "garanti_bitis": "31/03/2031",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "71RDATUKTPMDHU3XX",
+        "satis_tarihi": "05/09/2024",
+        "garanti_bitis": "04/09/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "23KUW7WW646W9E6WD",
+        "satis_tarihi": "26/01/2023",
+        "garanti_bitis": "25/01/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIBUS",
+        "sasi_no": "W3NXS1GTBPSTCPC4T",
+        "satis_tarihi": "21/03/2025",
+        "garanti_bitis": "20/03/2030",
+        "km_limiti": 1500000
+    }
+]

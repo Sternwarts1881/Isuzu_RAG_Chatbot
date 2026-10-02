@@ -1,0 +1,85 @@
+{
+    "arac_modeli":"BIG-E",
+    "parca_katalogu":
+
+[
+    {
+        "kod": "A3C2163ZZ",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 10119,
+        "stok_adedi": 0
+    },
+    {
+        "kod": "C5K7309TI",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 3151,
+        "stok_adedi": 19
+    },
+    {
+        "kod": "Z1D3965JY",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 11770,
+        "stok_adedi": 482
+    },
+    {
+        "kod": "X4Y6428LD",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 616,
+        "stok_adedi": 17
+    },
+    {
+        "kod": "P4K2157XY",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 5249,
+        "stok_adedi": 33
+    },
+    {
+        "kod": "B5S3721OK",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 11912,
+        "stok_adedi": 255
+    },
+    {
+        "kod": "B9G7366XK",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 13952,
+        "stok_adedi": 41
+    },
+    {
+        "kod": "M9S1989BS",
+        "ad": "Amortisor",
+        "fiyat_tl": 8476,
+        "stok_adedi": 64
+    },
+    {
+        "kod": "J2Z1283CH",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 12908,
+        "stok_adedi": 347
+    },
+    {
+        "kod": "B6X5934AW",
+        "ad": "Aku-24V",
+        "fiyat_tl": 5883,
+        "stok_adedi": 8
+    },
+    {
+        "kod": "N3R1013SO",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 3931,
+        "stok_adedi": 56
+    },
+    {
+        "kod": "G1H4276LG",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 7617,
+        "stok_adedi": 455
+    },
+    {
+        "kod": "Q9S4567LT",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 12377,
+        "stok_adedi": 316
+    }
+]
+}

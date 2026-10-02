@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"GRAND_NOVOULTRA",
+    "parca_katalogu":
+[
+    {
+        "kod": "K1K6563OD",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 11568,
+        "stok_adedi": 439
+    },
+    {
+        "kod": "L1A8870EQ",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 4855,
+        "stok_adedi": 447
+    },
+    {
+        "kod": "I4M4039FQ",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 13243,
+        "stok_adedi": 18
+    },
+    {
+        "kod": "U1K1033VM",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 12409,
+        "stok_adedi": 313
+    },
+    {
+        "kod": "E2P5468YN",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 13153,
+        "stok_adedi": 443
+    },
+    {
+        "kod": "C3Q4970YM",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 3080,
+        "stok_adedi": 69
+    },
+    {
+        "kod": "K6G8182HX",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 11089,
+        "stok_adedi": 130
+    },
+    {
+        "kod": "Q8R9943SI",
+        "ad": "Amortisor",
+        "fiyat_tl": 1189,
+        "stok_adedi": 335
+    },
+    {
+        "kod": "P3N8898LK",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 4551,
+        "stok_adedi": 214
+    },
+    {
+        "kod": "K3I5329DS",
+        "ad": "Aku-24V",
+        "fiyat_tl": 10215,
+        "stok_adedi": 165
+    },
+    {
+        "kod": "K3V6292ME",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 14549,
+        "stok_adedi": 79
+    },
+    {
+        "kod": "M1X6424SF",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 14987,
+        "stok_adedi": 75
+    },
+    {
+        "kod": "D3G5688YF",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 7861,
+        "stok_adedi": 213
+    }
+]}

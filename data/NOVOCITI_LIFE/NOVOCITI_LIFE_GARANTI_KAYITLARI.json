@@ -1,0 +1,72 @@
+[
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "9C18JWTGRXKAZ1F44",
+        "satis_tarihi": "05/03/2025",
+        "garanti_bitis": "04/03/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "E42WC4CE3GCYG8BPB",
+        "satis_tarihi": "06/09/2025",
+        "garanti_bitis": "05/09/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "16ZZ02AFLVNRTA7A4",
+        "satis_tarihi": "29/06/2025",
+        "garanti_bitis": "28/06/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "4P17B3RFYLK1KN9JS",
+        "satis_tarihi": "30/12/2025",
+        "garanti_bitis": "29/12/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "C3T2DUX645G8E8GJW",
+        "satis_tarihi": "19/08/2022",
+        "garanti_bitis": "18/08/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "7ML5W3N7BWVH1MEBP",
+        "satis_tarihi": "19/08/2025",
+        "garanti_bitis": "18/08/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "Y94H7RHEEBD5SSCK7",
+        "satis_tarihi": "22/11/2021",
+        "garanti_bitis": "21/11/2026",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "UKXVKG633YSXTE1DE",
+        "satis_tarihi": "23/10/2022",
+        "garanti_bitis": "22/10/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "JKCDY0VG4678CCHZR",
+        "satis_tarihi": "06/02/2023",
+        "garanti_bitis": "05/02/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "NOVOCITI_LIFE",
+        "sasi_no": "M452SSZ3J37N1AG2X",
+        "satis_tarihi": "19/06/2022",
+        "garanti_bitis": "18/06/2027",
+        "km_limiti": 2000000
+    }
+]

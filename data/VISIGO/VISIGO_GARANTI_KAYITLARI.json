@@ -1,0 +1,72 @@
+[
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "JYWVF0LY1Z0XBKT2G",
+        "satis_tarihi": "27/03/2023",
+        "garanti_bitis": "25/03/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "DPA2TJG1UG3YFE21R",
+        "satis_tarihi": "23/05/2023",
+        "garanti_bitis": "21/05/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "V4K0FGKBAVZBUNAW6",
+        "satis_tarihi": "27/07/2023",
+        "garanti_bitis": "25/07/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "P6ZE1AXRMXE55KYJW",
+        "satis_tarihi": "02/09/2024",
+        "garanti_bitis": "01/09/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "TMMZJS7RFTCX7BW8J",
+        "satis_tarihi": "25/09/2024",
+        "garanti_bitis": "24/09/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "AE5ARNUE8YXS0AUEJ",
+        "satis_tarihi": "17/07/2024",
+        "garanti_bitis": "16/07/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "GFTLLNL7V7BHV9A3G",
+        "satis_tarihi": "05/01/2023",
+        "garanti_bitis": "04/01/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "SZ8BF0YR3VHU6P7D1",
+        "satis_tarihi": "05/03/2024",
+        "garanti_bitis": "04/03/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "U23LDNFRXFLV8MWSB",
+        "satis_tarihi": "21/06/2024",
+        "garanti_bitis": "20/06/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "VISIGO",
+        "sasi_no": "VRFY9AY303FXVK4N6",
+        "satis_tarihi": "05/01/2022",
+        "garanti_bitis": "04/01/2027",
+        "km_limiti": 2000000
+    }
+]

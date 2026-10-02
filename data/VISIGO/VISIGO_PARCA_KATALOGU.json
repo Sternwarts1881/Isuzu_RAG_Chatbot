@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"VISIGO",
+    "parca_katalogu":
+[
+    {
+        "kod": "F1C9092LG",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 12186,
+        "stok_adedi": 45
+    },
+    {
+        "kod": "D3Q2007RW",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 1345,
+        "stok_adedi": 28
+    },
+    {
+        "kod": "V6Y7422RI",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 989,
+        "stok_adedi": 44
+    },
+    {
+        "kod": "S2H4123YH",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 7665,
+        "stok_adedi": 486
+    },
+    {
+        "kod": "E3X3392XC",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 4698,
+        "stok_adedi": 125
+    },
+    {
+        "kod": "I9D7448FU",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 9220,
+        "stok_adedi": 235
+    },
+    {
+        "kod": "I9B4803JZ",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 6596,
+        "stok_adedi": 182
+    },
+    {
+        "kod": "Q3T7089TF",
+        "ad": "Amortisor",
+        "fiyat_tl": 1619,
+        "stok_adedi": 322
+    },
+    {
+        "kod": "Y4X4129GQ",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 3549,
+        "stok_adedi": 283
+    },
+    {
+        "kod": "U3Z5195KH",
+        "ad": "Aku-24V",
+        "fiyat_tl": 10040,
+        "stok_adedi": 60
+    },
+    {
+        "kod": "U4Q6428WW",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 13080,
+        "stok_adedi": 252
+    },
+    {
+        "kod": "K7N4120LI",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 13975,
+        "stok_adedi": 97
+    },
+    {
+        "kod": "U5S2323SD",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 12685,
+        "stok_adedi": 239
+    }
+]}

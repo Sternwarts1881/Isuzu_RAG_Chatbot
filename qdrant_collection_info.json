@@ -1,0 +1,313 @@
+{
+  "result": {
+    "status": "green",
+    "optimizer_status": "ok",
+    "indexed_vectors_count": 5267,
+    "points_count": 5267,
+    "segments_count": 8,
+    "config": {
+      "params": {
+        "vectors": {
+          "markdown_dense_vector": {
+            "size": 768,
+            "distance": "Cosine",
+            "hnsw_config": {
+              "m": 24,
+              "ef_construct": 256,
+              "payload_m": 24
+            },
+            "on_disk": false,
+            "datatype": "float32"
+          }
+        },
+        "shard_number": 1,
+        "replication_factor": 1,
+        "write_consistency_factor": 1,
+        "on_disk_payload": true,
+        "sparse_vectors": {
+          "json_sparse_vector": {
+            "index": {
+              "on_disk": true
+            }
+          }
+        }
+      },
+      "hnsw_config": {
+        "m": 16,
+        "ef_construct": 100,
+        "full_scan_threshold": 10000,
+        "max_indexing_threads": 0,
+        "on_disk": false
+      },
+      "optimizer_config": {
+        "deleted_threshold": 0.2,
+        "vacuum_min_vector_number": 1000,
+        "default_segment_number": 0,
+        "max_segment_size": null,
+        "memmap_threshold": null,
+        "indexing_threshold": 10000,
+        "flush_interval_sec": 5,
+        "max_optimization_threads": null,
+        "prevent_unoptimized": null
+      },
+      "wal_config": {
+        "wal_capacity_mb": 32,
+        "wal_segments_ahead": 0,
+        "wal_retain_closed": 1
+      },
+      "quantization_config": null
+    },
+    "payload_schema": {
+      "kod": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 208
+      },
+      "bakim_km.30000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 288
+      },
+      "bakim_km.300000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 320
+      },
+      "garanti_bitis": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 131
+      },
+      "bakim_km.180000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 322
+      },
+      "window_context": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 4432
+      },
+      "bakim_km.270000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 323
+      },
+      "bakim_km.240000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 340
+      },
+      "bakim_km.360000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 311
+      },
+      "bakim_km.210000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 301
+      },
+      "km_limiti": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": true,
+          "is_principal": null
+        },
+        "points": 131
+      },
+      "ad": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "word",
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 208
+      },
+      "bakim_km.90000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 310
+      },
+      "fiyat_tl": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": true,
+          "is_principal": null
+        },
+        "points": 208
+      },
+      "chunk_index": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": true,
+          "is_principal": null
+        },
+        "points": 4432
+      },
+      "bakim_km.150000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 289
+      },
+      "text": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 4432
+      },
+      "sasi_no": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 131
+      },
+      "bakim_km.390000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 299
+      },
+      "arac_modeli": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 5267
+      },
+      "parca_sistem": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "min_token_len": 2,
+          "max_token_len": 50,
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 496
+      },
+      "bakim_km.120000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 319
+      },
+      "stok_adedi": {
+        "data_type": "integer",
+        "params": {
+          "type": "integer",
+          "lookup": true,
+          "range": true,
+          "is_principal": null
+        },
+        "points": 208
+      },
+      "satis_tarihi": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "lowercase": true,
+          "phrase_matching": false
+        },
+        "points": 131
+      },
+      "kategori": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 496
+      },
+      "bakim_km.330000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 298
+      },
+      "bakim_km.60000": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 308
+      },
+      "kaynak_dosya": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 5267
+      },
+      "veri_tipi": {
+        "data_type": "keyword",
+        "params": {
+          "type": "keyword"
+        },
+        "points": 5267
+      },
+      "periyot": {
+        "data_type": "text",
+        "params": {
+          "type": "text",
+          "tokenizer": "whitespace",
+          "lowercase": true,
+          "phrase_matching": true
+        },
+        "points": 272
+      }
+    },
+    "update_queue": {
+      "length": 0
+    }
+  },
+  "status": "ok",
+  "time": 0.000596875
+}

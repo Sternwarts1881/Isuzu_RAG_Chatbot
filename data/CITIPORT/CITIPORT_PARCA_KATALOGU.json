@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"CITIPORT",
+    "parca_katalogu":
+[
+    {
+        "kod": "D9Q6486RZ",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 4778,
+        "stok_adedi": 366
+    },
+    {
+        "kod": "N8N7672EC",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 6685,
+        "stok_adedi": 387
+    },
+    {
+        "kod": "A4P8309BX",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 10763,
+        "stok_adedi": 423
+    },
+    {
+        "kod": "P1E2735AG",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 8599,
+        "stok_adedi": 426
+    },
+    {
+        "kod": "N7C3106XC",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 2223,
+        "stok_adedi": 231
+    },
+    {
+        "kod": "T5K1905MM",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 13843,
+        "stok_adedi": 166
+    },
+    {
+        "kod": "C1F5782OU",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 13972,
+        "stok_adedi": 104
+    },
+    {
+        "kod": "E9P8289HQ",
+        "ad": "Amortisor",
+        "fiyat_tl": 10417,
+        "stok_adedi": 398
+    },
+    {
+        "kod": "Y5P6702PR",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 14089,
+        "stok_adedi": 315
+    },
+    {
+        "kod": "M4J4167CG",
+        "ad": "Aku-24V",
+        "fiyat_tl": 11507,
+        "stok_adedi": 490
+    },
+    {
+        "kod": "Z3M2659NS",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 14033,
+        "stok_adedi": 270
+    },
+    {
+        "kod": "F4K3509PJ",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 1438,
+        "stok_adedi": 20
+    },
+    {
+        "kod": "C1P6166HT",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 1831,
+        "stok_adedi": 27
+    }
+]}

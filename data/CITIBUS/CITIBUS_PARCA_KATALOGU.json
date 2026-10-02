@@ -1,0 +1,84 @@
+{
+    "arac_modeli":"CITIBUS",
+    "parca_katalogu":
+
+[
+    {
+        "kod": "H7R2046UV",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 12268,
+        "stok_adedi": 89
+    },
+    {
+        "kod": "M6N1378YC",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 12468,
+        "stok_adedi": 187
+    },
+    {
+        "kod": "J4J3392HU",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 13466,
+        "stok_adedi": 323
+    },
+    {
+        "kod": "N8O9393AW",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 1183,
+        "stok_adedi": 9
+    },
+    {
+        "kod": "E3A1529DN",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 8816,
+        "stok_adedi": 305
+    },
+    {
+        "kod": "R6H7272NH",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 10575,
+        "stok_adedi": 494
+    },
+    {
+        "kod": "T7Q7866HM",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 13874,
+        "stok_adedi": 463
+    },
+    {
+        "kod": "F1Z7397XA",
+        "ad": "Amortisor",
+        "fiyat_tl": 5827,
+        "stok_adedi": 264
+    },
+    {
+        "kod": "R7W3047RZ",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 820,
+        "stok_adedi": 142
+    },
+    {
+        "kod": "L7O4972FM",
+        "ad": "Aku-24V",
+        "fiyat_tl": 8817,
+        "stok_adedi": 43
+    },
+    {
+        "kod": "S1B7479VB",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 12191,
+        "stok_adedi": 362
+    },
+    {
+        "kod": "U9K1483XE",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 8225,
+        "stok_adedi": 197
+    },
+    {
+        "kod": "T8N1544TV",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 5644,
+        "stok_adedi": 124
+    }
+]}

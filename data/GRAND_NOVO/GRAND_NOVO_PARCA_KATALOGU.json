@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"GRAND_NOVO",
+    "parca_katalogu":
+[
+    {
+        "kod": "S3O4737NZ",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 6058,
+        "stok_adedi": 52
+    },
+    {
+        "kod": "E2Z9886LI",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 4399,
+        "stok_adedi": 151
+    },
+    {
+        "kod": "C4W7907RC",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 8998,
+        "stok_adedi": 286
+    },
+    {
+        "kod": "G3P5036SR",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 12604,
+        "stok_adedi": 175
+    },
+    {
+        "kod": "Z4U4228HM",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 14585,
+        "stok_adedi": 428
+    },
+    {
+        "kod": "K4P7452CJ",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 12112,
+        "stok_adedi": 24
+    },
+    {
+        "kod": "Z6Q2376SA",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 719,
+        "stok_adedi": 246
+    },
+    {
+        "kod": "Y9N4049OY",
+        "ad": "Amortisor",
+        "fiyat_tl": 6489,
+        "stok_adedi": 119
+    },
+    {
+        "kod": "P3A3502QR",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 13320,
+        "stok_adedi": 26
+    },
+    {
+        "kod": "V7L2082MQ",
+        "ad": "Aku-24V",
+        "fiyat_tl": 9912,
+        "stok_adedi": 276
+    },
+    {
+        "kod": "D4O8848FB",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 14379,
+        "stok_adedi": 35
+    },
+    {
+        "kod": "G5S7803AF",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 12363,
+        "stok_adedi": 427
+    },
+    {
+        "kod": "H3B5021RL",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 14942,
+        "stok_adedi": 496
+    }
+]}

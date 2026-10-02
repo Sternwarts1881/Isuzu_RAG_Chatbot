@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"GRAND_TORO",
+    "parca_katalogu":
+[
+    {
+        "kod": "M7P4429VE",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 4874,
+        "stok_adedi": 156
+    },
+    {
+        "kod": "P4L9810CJ",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 1386,
+        "stok_adedi": 355
+    },
+    {
+        "kod": "W3M2406JD",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 5117,
+        "stok_adedi": 19
+    },
+    {
+        "kod": "B9R3979HC",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 9716,
+        "stok_adedi": 446
+    },
+    {
+        "kod": "X9L4258TQ",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 1631,
+        "stok_adedi": 367
+    },
+    {
+        "kod": "R3H9232MA",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 13199,
+        "stok_adedi": 400
+    },
+    {
+        "kod": "L1E5417WP",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 2761,
+        "stok_adedi": 452
+    },
+    {
+        "kod": "L8C8642NB",
+        "ad": "Amortisor",
+        "fiyat_tl": 10977,
+        "stok_adedi": 169
+    },
+    {
+        "kod": "M8M4219KK",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 6680,
+        "stok_adedi": 393
+    },
+    {
+        "kod": "R5A5065JX",
+        "ad": "Aku-24V",
+        "fiyat_tl": 14925,
+        "stok_adedi": 384
+    },
+    {
+        "kod": "E2X7246ED",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 13756,
+        "stok_adedi": 458
+    },
+    {
+        "kod": "Z2Y7758QQ",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 12475,
+        "stok_adedi": 240
+    },
+    {
+        "kod": "B9H7434KE",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 5506,
+        "stok_adedi": 424
+    }
+]}

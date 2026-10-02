@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"INTERLINER",
+    "parca_katalogu":
+[
+    {
+        "kod": "E3A4592KV",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 10978,
+        "stok_adedi": 466
+    },
+    {
+        "kod": "H3M4320BO",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 7132,
+        "stok_adedi": 333
+    },
+    {
+        "kod": "O4C2343IA",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 11362,
+        "stok_adedi": 147
+    },
+    {
+        "kod": "P8E9197LT",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 7424,
+        "stok_adedi": 182
+    },
+    {
+        "kod": "F7A2530YX",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 7818,
+        "stok_adedi": 229
+    },
+    {
+        "kod": "U1Y5898MA",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 10422,
+        "stok_adedi": 406
+    },
+    {
+        "kod": "F7W2307QP",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 3747,
+        "stok_adedi": 211
+    },
+    {
+        "kod": "P4X5707YC",
+        "ad": "Amortisor",
+        "fiyat_tl": 11227,
+        "stok_adedi": 213
+    },
+    {
+        "kod": "V4E8407WC",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 3251,
+        "stok_adedi": 114
+    },
+    {
+        "kod": "Q9L5712KL",
+        "ad": "Aku-24V",
+        "fiyat_tl": 751,
+        "stok_adedi": 383
+    },
+    {
+        "kod": "F3W2028YU",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 10157,
+        "stok_adedi": 236
+    },
+    {
+        "kod": "M8P6410HW",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 3349,
+        "stok_adedi": 80
+    },
+    {
+        "kod": "T1Y7674KT",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 11868,
+        "stok_adedi": 261
+    }
+]}

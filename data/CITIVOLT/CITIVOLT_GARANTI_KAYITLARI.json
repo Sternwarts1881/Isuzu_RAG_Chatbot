@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "WTB2C33AL67XPCL52",
+        "satis_tarihi": "10/09/2021",
+        "garanti_bitis": "09/09/2026",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "EX1SJ47M7YJMDN5X5",
+        "satis_tarihi": "06/07/2024",
+        "garanti_bitis": "05/07/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "YZXMN27DBZJ5E68P6",
+        "satis_tarihi": "18/04/2023",
+        "garanti_bitis": "16/04/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "XAHET7FRLKNCK7G8J",
+        "satis_tarihi": "26/02/2022",
+        "garanti_bitis": "25/02/2027",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "NS48WAB5H27TGKJNU",
+        "satis_tarihi": "03/11/2024",
+        "garanti_bitis": "02/11/2029",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "D5GTPBPW1UA2DL9W5",
+        "satis_tarihi": "13/07/2025",
+        "garanti_bitis": "12/07/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIVOLT",
+        "sasi_no": "8C28HA0ZH2DLUPKUR",
+        "satis_tarihi": "28/11/2024",
+        "garanti_bitis": "27/11/2029",
+        "km_limiti": 2000000
+    }
+]

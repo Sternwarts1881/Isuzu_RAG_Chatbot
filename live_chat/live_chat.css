@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    background: #0f0f11;
+    color: #e2e8f0;
+}
+
+#messages {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #475569;
+    background: #0f0f11;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.msg {
+    padding: 8px 12px;
+    margin: 6px 0;
+    border-radius: 8px;
+    color: #0f0f11;
+    display: inline-block;
+    max-width: 80%;
+    clear: both;
+    word-break: break-word;
+}
+
+.user {
+    background-color: #defff1;
+    text-align: right;
+    float: right;
+}
+
+.staff {
+    background-color: #aaafac;
+    text-align: left;
+    float: left;
+}
+
+.system { 
+    text-align: left;
+    background-color: #b97777;
+    float: left;
+}

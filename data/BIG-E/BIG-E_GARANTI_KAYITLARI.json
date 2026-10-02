@@ -1,0 +1,72 @@
+[
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "GTG41HVCUJC21RHZ1",
+        "satis_tarihi": "17/06/2025",
+        "garanti_bitis": "16/06/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "3BXGJETZ4YZKHLP3D",
+        "satis_tarihi": "21/10/2022",
+        "garanti_bitis": "20/10/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "A82X03VNYCDGMTXVD",
+        "satis_tarihi": "22/06/2025",
+        "garanti_bitis": "21/06/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "L90U728DS382E8D7X",
+        "satis_tarihi": "10/02/2022",
+        "garanti_bitis": "09/02/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "7URD76LWMBTEZNX7A",
+        "satis_tarihi": "28/12/2021",
+        "garanti_bitis": "27/12/2026",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "RA8NJTKULM4LTUYCA",
+        "satis_tarihi": "09/03/2022",
+        "garanti_bitis": "08/03/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "F9KSZM306UR7KB8CR",
+        "satis_tarihi": "16/07/2023",
+        "garanti_bitis": "14/07/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "NJUXNDFNFN6FMX810",
+        "satis_tarihi": "19/06/2025",
+        "garanti_bitis": "18/06/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "VBRF3UGMVDF4F403U",
+        "satis_tarihi": "15/05/2023",
+        "garanti_bitis": "13/05/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "BIG-E",
+        "sasi_no": "2CAYHEBCJE2XHGAMK",
+        "satis_tarihi": "30/01/2026",
+        "garanti_bitis": "29/01/2031",
+        "km_limiti": 2000000
+    }
+]

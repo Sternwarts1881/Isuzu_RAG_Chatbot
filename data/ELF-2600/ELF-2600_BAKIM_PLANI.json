@@ -1,0 +1,531 @@
+{
+    "arac_modeli":"ELF-2600",
+    "bakım_planı":
+[
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Motor arızaları diagnostik kontrolü",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "Y",
+            "60000": "D",
+            "90000": "K",
+            "120000": "D",
+            "150000": "K",
+            "180000": "Y",
+            "210000": "K",
+            "240000": "A",
+            "270000": "A",
+            "300000": null,
+            "330000": null,
+            "360000": "A",
+            "390000": "Y"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Motor yağı",
+        "periyot": "6 ay",
+        "bakim_km": {
+            "30000": "K",
+            "60000": "A",
+            "90000": null,
+            "120000": "D",
+            "150000": "K",
+            "180000": "K",
+            "210000": "K",
+            "240000": "Y",
+            "270000": "K",
+            "300000": null,
+            "330000": "K",
+            "360000": "K",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Yağ filtresi",
+        "periyot": "6 ay",
+        "bakim_km": {
+            "30000": "K",
+            "60000": null,
+            "90000": "A",
+            "120000": "A",
+            "150000": "A",
+            "180000": "K",
+            "210000": null,
+            "240000": "A",
+            "270000": "Y",
+            "300000": null,
+            "330000": "Y",
+            "360000": "K",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Yakıt filtresi",
+        "periyot": "6 ay",
+        "bakim_km": {
+            "30000": "D",
+            "60000": "D",
+            "90000": "A",
+            "120000": "K",
+            "150000": "K",
+            "180000": null,
+            "210000": "D",
+            "240000": "K",
+            "270000": "D",
+            "300000": "K",
+            "330000": "D",
+            "360000": "A",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Yakıt Su Ayırıcı Filtresi",
+        "periyot": "6 ay",
+        "bakim_km": {
+            "30000": null,
+            "60000": null,
+            "90000": "K",
+            "120000": "Y",
+            "150000": null,
+            "180000": "D",
+            "210000": "A",
+            "240000": "D",
+            "270000": "Y",
+            "300000": "A",
+            "330000": null,
+            "360000": "A",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Yakıt Su Ayırıcı Filtresi Su Tahliyesi",
+        "periyot": "Günlük",
+        "bakim_km": {}
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Subap boşluk ayarı",
+        "periyot": "1500 sa / 2000 sa",
+        "bakim_km": {
+            "120000": null,
+            "240000": "A",
+            "360000": "D"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Hava filtresi elemanı",
+        "periyot": "6 ay",
+        "bakim_km": {
+            "30000": "D",
+            "60000": "Y",
+            "90000": "Y",
+            "120000": "A",
+            "150000": null,
+            "180000": null,
+            "210000": "K",
+            "240000": "A",
+            "270000": "A",
+            "300000": "D",
+            "330000": "D",
+            "360000": "Y",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Yakıt boruları ve hortumlar",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "K",
+            "60000": "A",
+            "90000": "D",
+            "120000": "A",
+            "150000": "A",
+            "180000": "D",
+            "210000": null,
+            "240000": "A",
+            "270000": "A",
+            "300000": null,
+            "330000": "K",
+            "360000": "K",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Egzoz partikül filtresi (DPF) temizliği",
+        "periyot": "9000 saat veya 300000 km",
+        "bakim_km": {
+            "300000": null
+        }
+    },
+    {
+        "kategori": "MOTOR VE YAKIT SİSTEMİ",
+        "parca_sistem": "Üre pompa filtresi değişimi",
+        "periyot": "9000 saat veya 300000 km",
+        "bakim_km": {
+            "300000": "A"
+        }
+    },
+    {
+        "kategori": "SOĞUTMA SİSTEMİ",
+        "parca_sistem": "Soğutma sistemi kaçak kontrolü",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "A",
+            "60000": "K",
+            "90000": null,
+            "120000": "A",
+            "150000": "K",
+            "180000": null,
+            "210000": "K",
+            "240000": "D",
+            "270000": "A",
+            "300000": "A",
+            "330000": "Y",
+            "360000": null,
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "SOĞUTMA SİSTEMİ",
+        "parca_sistem": "Radyatör petekleri dış temizliği",
+        "periyot": "500 sa",
+        "bakim_km": {
+            "30000": null,
+            "60000": "D",
+            "90000": "Y",
+            "120000": "Y",
+            "150000": "A",
+            "180000": "K",
+            "210000": "D",
+            "240000": "Y",
+            "270000": "Y",
+            "300000": "D",
+            "330000": null,
+            "360000": "A",
+            "390000": "D"
+        }
+    },
+    {
+        "kategori": "SOĞUTMA SİSTEMİ",
+        "parca_sistem": "Antifriz (Soğutma sıvısı)",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "A",
+            "60000": "Y",
+            "90000": "A",
+            "120000": "Y",
+            "150000": null,
+            "180000": "A",
+            "210000": "A",
+            "240000": null,
+            "270000": "Y",
+            "300000": "K",
+            "330000": null,
+            "360000": null,
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "SOĞUTMA SİSTEMİ",
+        "parca_sistem": "Hidrostatik fan tahrik sistem yağı",
+        "periyot": "1000 sa / 1 yıl",
+        "bakim_km": {
+            "30000": "Y",
+            "60000": "A",
+            "90000": "A",
+            "120000": "K",
+            "150000": "K",
+            "180000": "D",
+            "210000": "A",
+            "240000": "Y",
+            "270000": null,
+            "300000": "D",
+            "330000": "A",
+            "360000": "K",
+            "390000": "D"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Şanzıman yağı",
+        "periyot": "4 yıl / 6000 sa",
+        "bakim_km": {
+            "240000": "Y"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Şanzıman filtresi",
+        "periyot": "3 yıl / 3000 sa",
+        "bakim_km": {
+            "120000": "Y",
+            "240000": "K",
+            "360000": "D"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Şanzıman yağı kaçak kontrolü",
+        "periyot": null,
+        "bakim_km": {
+            "30000": null,
+            "60000": "A",
+            "90000": "D",
+            "120000": null,
+            "150000": "K",
+            "180000": "D",
+            "210000": "D",
+            "240000": "K",
+            "270000": null,
+            "300000": "A",
+            "330000": null,
+            "360000": null,
+            "390000": "Y"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Diferansiyel yağı",
+        "periyot": "65000 km (veya 1 yıl)",
+        "bakim_km": {
+            "90000": null,
+            "180000": null,
+            "270000": "D"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Ön aks başlık / burçları",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "Y",
+            "60000": "A",
+            "90000": "K",
+            "120000": "Y",
+            "150000": "K",
+            "180000": "Y",
+            "210000": "Y",
+            "240000": "A",
+            "270000": "K",
+            "300000": "D",
+            "330000": "D",
+            "360000": "K",
+            "390000": "D"
+        }
+    },
+    {
+        "kategori": "ŞANZIMAN VE AKTARMA",
+        "parca_sistem": "Poyra Yatağı",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "A",
+            "60000": "K",
+            "90000": "D",
+            "120000": "D",
+            "150000": "Y",
+            "180000": "A",
+            "210000": "A",
+            "240000": null,
+            "270000": "K",
+            "300000": null,
+            "330000": "A",
+            "360000": null,
+            "390000": "Y"
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Fren borusu, hortum sızıntıları",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "D",
+            "60000": "K",
+            "90000": "Y",
+            "120000": "A",
+            "150000": "Y",
+            "180000": "D",
+            "210000": null,
+            "240000": null,
+            "270000": "A",
+            "300000": "Y",
+            "330000": null,
+            "360000": "K",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Fren balatası ve diski gözle kontrol",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "A",
+            "60000": "Y",
+            "90000": "Y",
+            "120000": "K",
+            "150000": "K",
+            "180000": "K",
+            "210000": "Y",
+            "240000": "A",
+            "270000": "K",
+            "300000": "Y",
+            "330000": "D",
+            "360000": "D",
+            "390000": "Y"
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Hava körükleri ve Seviye valfleri",
+        "periyot": null,
+        "bakim_km": {
+            "30000": null,
+            "60000": "Y",
+            "90000": "D",
+            "120000": "A",
+            "150000": "D",
+            "180000": "D",
+            "210000": null,
+            "240000": null,
+            "270000": "A",
+            "300000": "Y",
+            "330000": null,
+            "360000": null,
+            "390000": null
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Amortisörler, bağlantı gevşeklikleri",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "Y",
+            "60000": "D",
+            "90000": "D",
+            "120000": null,
+            "150000": "Y",
+            "180000": "K",
+            "210000": "D",
+            "240000": "K",
+            "270000": "A",
+            "300000": "K",
+            "330000": "K",
+            "360000": null,
+            "390000": "Y"
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Hidrolik direksiyon yağı / sızıntı",
+        "periyot": "2 yıl / Sızıntı kontrolü: Sürekli",
+        "bakim_km": {
+            "30000": "D",
+            "60000": "Y",
+            "90000": "D",
+            "120000": "K",
+            "150000": "K",
+            "180000": "K",
+            "210000": "D",
+            "240000": null,
+            "270000": "A",
+            "300000": null,
+            "330000": "Y",
+            "360000": "A",
+            "390000": "A"
+        }
+    },
+    {
+        "kategori": "FREN VE SÜSPANSİYON",
+        "parca_sistem": "Tekerlek somunları / Lastik hava basıncı",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "Y",
+            "60000": "K",
+            "90000": null,
+            "120000": "K",
+            "150000": "Y",
+            "180000": null,
+            "210000": "D",
+            "240000": "A",
+            "270000": null,
+            "300000": "Y",
+            "330000": null,
+            "360000": "K",
+            "390000": "A"
+        }
+    },
+    {
+        "kategori": "ELEKTRİK VE DİĞER DONANIMLAR",
+        "parca_sistem": "Fren, sinyal, park, sis lambaları",
+        "periyot": null,
+        "bakim_km": {
+            "30000": null,
+            "60000": "A",
+            "90000": "D",
+            "120000": "D",
+            "150000": "K",
+            "180000": "K",
+            "210000": null,
+            "240000": "K",
+            "270000": "D",
+            "300000": "A",
+            "330000": null,
+            "360000": "K",
+            "390000": "K"
+        }
+    },
+    {
+        "kategori": "ELEKTRİK VE DİĞER DONANIMLAR",
+        "parca_sistem": "Akü bağlantı kabloları ve yoğunluğu",
+        "periyot": "500 sa",
+        "bakim_km": {
+            "30000": "A",
+            "60000": "A",
+            "90000": null,
+            "120000": "A",
+            "150000": "K",
+            "180000": "K",
+            "210000": "K",
+            "240000": "A",
+            "270000": "Y",
+            "300000": "K",
+            "330000": null,
+            "360000": "D",
+            "390000": "A"
+        }
+    },
+    {
+        "kategori": "ELEKTRİK VE DİĞER DONANIMLAR",
+        "parca_sistem": "Havalı kapı ayarı ve fonksiyon testleri",
+        "periyot": null,
+        "bakim_km": {
+            "30000": "K",
+            "60000": "Y",
+            "90000": "D",
+            "120000": null,
+            "150000": "D",
+            "180000": "K",
+            "210000": "K",
+            "240000": "Y",
+            "270000": "D",
+            "300000": "Y",
+            "330000": "K",
+            "360000": "K",
+            "390000": "A"
+        }
+    },
+    {
+        "kategori": "ELEKTRİK VE DİĞER DONANIMLAR",
+        "parca_sistem": "Klima kompresör yağı / gazı",
+        "periyot": "Yılda bir kontrol, eksikse değişim",
+        "bakim_km": {}
+    }
+]}

@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "T8CULSDF437GCXHXZ",
+        "satis_tarihi": "29/03/2025",
+        "garanti_bitis": "28/03/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "ZTX07MNNSM6SGBA4W",
+        "satis_tarihi": "02/06/2025",
+        "garanti_bitis": "01/06/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "N02BCH6RDXBYRB35P",
+        "satis_tarihi": "06/12/2024",
+        "garanti_bitis": "05/12/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "22HJDAKHH6R9RTR3L",
+        "satis_tarihi": "23/09/2022",
+        "garanti_bitis": "22/09/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "2PBC5744XACMMZ6BS",
+        "satis_tarihi": "15/06/2025",
+        "garanti_bitis": "14/06/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "NUM5U2W2N5GYK3UDK",
+        "satis_tarihi": "05/01/2023",
+        "garanti_bitis": "04/01/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "ELF-2600",
+        "sasi_no": "RXFPNYZK9J9JY0FNY",
+        "satis_tarihi": "18/12/2024",
+        "garanti_bitis": "17/12/2029",
+        "km_limiti": 2000000
+    }
+]

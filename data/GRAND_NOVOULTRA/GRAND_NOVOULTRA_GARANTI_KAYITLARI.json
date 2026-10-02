@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "R145YWTT7JE9TXMJ2",
+        "satis_tarihi": "15/11/2024",
+        "garanti_bitis": "14/11/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "LG8BKB5HSTGXKXKWH",
+        "satis_tarihi": "03/03/2025",
+        "garanti_bitis": "02/03/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "CJ7BAT713YCKG9A29",
+        "satis_tarihi": "13/09/2022",
+        "garanti_bitis": "12/09/2027",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "F7Y2C1UUSVSKACH6A",
+        "satis_tarihi": "13/09/2025",
+        "garanti_bitis": "12/09/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "EN35F976AVSN153E4",
+        "satis_tarihi": "30/06/2026",
+        "garanti_bitis": "29/06/2031",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "AL3AG5VV50XV7KU0Z",
+        "satis_tarihi": "26/02/2025",
+        "garanti_bitis": "25/02/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_NOVOULTRA",
+        "sasi_no": "99DX70XXKCZ1SSZSX",
+        "satis_tarihi": "18/05/2026",
+        "garanti_bitis": "17/05/2031",
+        "km_limiti": 2000000
+    }
+]

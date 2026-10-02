@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "4UZR1PX7BPX4FJ676",
+        "satis_tarihi": "27/08/2022",
+        "garanti_bitis": "26/08/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "8YSR6PETRK5Z1V6H5",
+        "satis_tarihi": "17/08/2025",
+        "garanti_bitis": "16/08/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "HGRZTJWCZ8C5D94H4",
+        "satis_tarihi": "03/09/2023",
+        "garanti_bitis": "01/09/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "CWMWCL67C70CU5VBT",
+        "satis_tarihi": "27/05/2025",
+        "garanti_bitis": "26/05/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "RMEWFE3FGGCEKLHS8",
+        "satis_tarihi": "11/04/2022",
+        "garanti_bitis": "10/04/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "92217R9MYK46KGBLA",
+        "satis_tarihi": "22/09/2021",
+        "garanti_bitis": "21/09/2026",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "GRAND_TORO",
+        "sasi_no": "07D13WX7LZ7Y6BKA2",
+        "satis_tarihi": "11/01/2026",
+        "garanti_bitis": "10/01/2031",
+        "km_limiti": 1000000
+    }
+]

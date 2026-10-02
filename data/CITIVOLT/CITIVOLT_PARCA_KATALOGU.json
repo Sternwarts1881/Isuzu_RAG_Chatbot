@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"CITIVOLT",
+    "parca_katalogu":
+[
+    {
+        "kod": "S7T4051TS",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 13903,
+        "stok_adedi": 370
+    },
+    {
+        "kod": "Y8C3807SX",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 13522,
+        "stok_adedi": 122
+    },
+    {
+        "kod": "C5Y8893AU",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 10799,
+        "stok_adedi": 162
+    },
+    {
+        "kod": "O8T9805VX",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 4332,
+        "stok_adedi": 12
+    },
+    {
+        "kod": "B1W4270MY",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 14143,
+        "stok_adedi": 245
+    },
+    {
+        "kod": "X3Q3020CD",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 1785,
+        "stok_adedi": 300
+    },
+    {
+        "kod": "D9G5843BP",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 5847,
+        "stok_adedi": 485
+    },
+    {
+        "kod": "U6N9642MI",
+        "ad": "Amortisor",
+        "fiyat_tl": 13282,
+        "stok_adedi": 444
+    },
+    {
+        "kod": "S5O1095BE",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 11820,
+        "stok_adedi": 135
+    },
+    {
+        "kod": "Y1A9930BJ",
+        "ad": "Aku-24V",
+        "fiyat_tl": 9645,
+        "stok_adedi": 77
+    },
+    {
+        "kod": "J8R1010LC",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 2281,
+        "stok_adedi": 254
+    },
+    {
+        "kod": "Y6C1383BI",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 8992,
+        "stok_adedi": 298
+    },
+    {
+        "kod": "W6P7994XM",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 4438,
+        "stok_adedi": 262
+    }
+]}

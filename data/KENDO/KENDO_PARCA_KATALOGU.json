@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"KENDO",
+    "parca_katalogu":
+[
+    {
+        "kod": "U9D2632PR",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 12353,
+        "stok_adedi": 134
+    },
+    {
+        "kod": "Y6O3627TY",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 8298,
+        "stok_adedi": 166
+    },
+    {
+        "kod": "P5F3441DS",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 11695,
+        "stok_adedi": 494
+    },
+    {
+        "kod": "T9G2526TJ",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 3974,
+        "stok_adedi": 353
+    },
+    {
+        "kod": "J6J8634WA",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 13750,
+        "stok_adedi": 342
+    },
+    {
+        "kod": "X7E7940RB",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 7695,
+        "stok_adedi": 232
+    },
+    {
+        "kod": "W7N6255RK",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 11877,
+        "stok_adedi": 132
+    },
+    {
+        "kod": "F2B4636GI",
+        "ad": "Amortisor",
+        "fiyat_tl": 11271,
+        "stok_adedi": 290
+    },
+    {
+        "kod": "W2H3610WJ",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 10352,
+        "stok_adedi": 44
+    },
+    {
+        "kod": "L7R6720CJ",
+        "ad": "Aku-24V",
+        "fiyat_tl": 4952,
+        "stok_adedi": 120
+    },
+    {
+        "kod": "P1F1399IL",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 5563,
+        "stok_adedi": 360
+    },
+    {
+        "kod": "V6D9122DG",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 3226,
+        "stok_adedi": 486
+    },
+    {
+        "kod": "E8R2530UM",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 13062,
+        "stok_adedi": 122
+    }
+]}

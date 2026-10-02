@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"NOVOCITY_VOLT",
+    "parca_katalogu":
+[
+    {
+        "kod": "T5F8008MU",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 7158,
+        "stok_adedi": 238
+    },
+    {
+        "kod": "J3Y3679PX",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 11044,
+        "stok_adedi": 223
+    },
+    {
+        "kod": "B3Q3269OP",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 14645,
+        "stok_adedi": 248
+    },
+    {
+        "kod": "Y1A4497DF",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 8842,
+        "stok_adedi": 196
+    },
+    {
+        "kod": "Q5C1519JD",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 9991,
+        "stok_adedi": 311
+    },
+    {
+        "kod": "A6R3878TO",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 4276,
+        "stok_adedi": 416
+    },
+    {
+        "kod": "P1S3771RU",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 6140,
+        "stok_adedi": 17
+    },
+    {
+        "kod": "N7F7844GQ",
+        "ad": "Amortisor",
+        "fiyat_tl": 746,
+        "stok_adedi": 113
+    },
+    {
+        "kod": "M6V6826XT",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 12642,
+        "stok_adedi": 143
+    },
+    {
+        "kod": "L6V8838UJ",
+        "ad": "Aku-24V",
+        "fiyat_tl": 11077,
+        "stok_adedi": 168
+    },
+    {
+        "kod": "M5O8871RW",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 11120,
+        "stok_adedi": 337
+    },
+    {
+        "kod": "Y6O4430CF",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 10470,
+        "stok_adedi": 186
+    },
+    {
+        "kod": "Q3Z7198UC",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 2825,
+        "stok_adedi": 397
+    }
+]}

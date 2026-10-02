@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"TURKUAZ",
+    "parca_katalogu":
+[
+    {
+        "kod": "R2Z2872QS",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 9410,
+        "stok_adedi": 273
+    },
+    {
+        "kod": "G5E3799AA",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 12014,
+        "stok_adedi": 261
+    },
+    {
+        "kod": "J2C9520QM",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 11012,
+        "stok_adedi": 231
+    },
+    {
+        "kod": "E9Z5817JR",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 5432,
+        "stok_adedi": 325
+    },
+    {
+        "kod": "Y5E3733HX",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 12265,
+        "stok_adedi": 440
+    },
+    {
+        "kod": "C3Y4448BR",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 2427,
+        "stok_adedi": 72
+    },
+    {
+        "kod": "K3U4324BZ",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 3007,
+        "stok_adedi": 381
+    },
+    {
+        "kod": "I5X1284JN",
+        "ad": "Amortisor",
+        "fiyat_tl": 13852,
+        "stok_adedi": 381
+    },
+    {
+        "kod": "G2Q4811WR",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 3860,
+        "stok_adedi": 138
+    },
+    {
+        "kod": "F3B8327JW",
+        "ad": "Aku-24V",
+        "fiyat_tl": 11412,
+        "stok_adedi": 412
+    },
+    {
+        "kod": "Z9N3039QG",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 510,
+        "stok_adedi": 40
+    },
+    {
+        "kod": "Y7Z5799HN",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 3696,
+        "stok_adedi": 415
+    },
+    {
+        "kod": "L9D4907HY",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 9202,
+        "stok_adedi": 108
+    }
+]}

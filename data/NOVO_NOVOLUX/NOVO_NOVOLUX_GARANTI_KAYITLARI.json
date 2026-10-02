@@ -1,0 +1,51 @@
+[
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "KTL9GV85C3DCGDVD4",
+        "satis_tarihi": "05/06/2024",
+        "garanti_bitis": "04/06/2029",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "7FZJ9RMGDC7RA5MJ1",
+        "satis_tarihi": "16/03/2022",
+        "garanti_bitis": "15/03/2027",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "M6WG7SMNZWYUMBU05",
+        "satis_tarihi": "10/02/2026",
+        "garanti_bitis": "09/02/2031",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "9E18C3RHGT07KXNUS",
+        "satis_tarihi": "14/12/2021",
+        "garanti_bitis": "13/12/2026",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "73MKJ4YCGL0XSJN8C",
+        "satis_tarihi": "29/06/2024",
+        "garanti_bitis": "28/06/2029",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "4VP512UW121AM05HX",
+        "satis_tarihi": "02/02/2022",
+        "garanti_bitis": "01/02/2027",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "NOVO_NOVOLUX",
+        "sasi_no": "AFCRLLD75HBPBUMZ5",
+        "satis_tarihi": "01/05/2024",
+        "garanti_bitis": "30/04/2029",
+        "km_limiti": 1500000
+    }
+]

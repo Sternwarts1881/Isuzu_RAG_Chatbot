@@ -1,0 +1,58 @@
+[
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "0DA54DT1VCMWEKVHY",
+        "satis_tarihi": "09/03/2026",
+        "garanti_bitis": "08/03/2031",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "WLRFFKCYAJT2LA3W8",
+        "satis_tarihi": "21/02/2023",
+        "garanti_bitis": "20/02/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "GY8TZ8M0ZHU53ZXA7",
+        "satis_tarihi": "30/10/2021",
+        "garanti_bitis": "29/10/2026",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "J2ZGSLXSMA0TV08WV",
+        "satis_tarihi": "02/12/2023",
+        "garanti_bitis": "30/11/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "4RRML1MW34EC1WUCY",
+        "satis_tarihi": "23/09/2021",
+        "garanti_bitis": "22/09/2026",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "67WYLNFCBMJV4B16C",
+        "satis_tarihi": "18/01/2023",
+        "garanti_bitis": "17/01/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "WR5BLP4L4W9N7LDJC",
+        "satis_tarihi": "07/07/2023",
+        "garanti_bitis": "05/07/2028",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "TURKUAZ",
+        "sasi_no": "N18XGH7E11UCGTK0S",
+        "satis_tarihi": "28/11/2024",
+        "garanti_bitis": "27/11/2029",
+        "km_limiti": 1000000
+    }
+]

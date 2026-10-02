@@ -1,0 +1,65 @@
+[
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "Y9GRD7SFD5F28ADTR",
+        "satis_tarihi": "27/08/2025",
+        "garanti_bitis": "26/08/2030",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "XU41KPXS445NFYSLK",
+        "satis_tarihi": "14/05/2023",
+        "garanti_bitis": "12/05/2028",
+        "km_limiti": 2000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "1DYEATBTE6VL1TD4F",
+        "satis_tarihi": "12/07/2023",
+        "garanti_bitis": "10/07/2028",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "RHJ1K2GMR6D12XRE5",
+        "satis_tarihi": "28/04/2025",
+        "garanti_bitis": "27/04/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "25RK55DFH28EJPKCF",
+        "satis_tarihi": "20/09/2025",
+        "garanti_bitis": "19/09/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "LR7H2P8PWVBA5KPBU",
+        "satis_tarihi": "22/04/2025",
+        "garanti_bitis": "21/04/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "TRETC754JE2145CCH",
+        "satis_tarihi": "09/10/2025",
+        "garanti_bitis": "08/10/2030",
+        "km_limiti": 1500000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "VMNTPR20EN7UMYH1P",
+        "satis_tarihi": "23/01/2025",
+        "garanti_bitis": "22/01/2030",
+        "km_limiti": 1000000
+    },
+    {
+        "arac_modeli": "CITIPORT",
+        "sasi_no": "WBZGHHRHMZNNSFNY0",
+        "satis_tarihi": "22/10/2024",
+        "garanti_bitis": "21/10/2029",
+        "km_limiti": 1000000
+    }
+]

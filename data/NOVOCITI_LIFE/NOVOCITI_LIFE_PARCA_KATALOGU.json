@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"NOVOCITI_LIFE",
+    "parca_katalogu":
+[
+    {
+        "kod": "A5L2877TW",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 8366,
+        "stok_adedi": 381
+    },
+    {
+        "kod": "I4C5557WN",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 13047,
+        "stok_adedi": 249
+    },
+    {
+        "kod": "Q2Q4424CR",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 13761,
+        "stok_adedi": 354
+    },
+    {
+        "kod": "I8B8090OG",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 14513,
+        "stok_adedi": 66
+    },
+    {
+        "kod": "J2Q8491DN",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 3065,
+        "stok_adedi": 185
+    },
+    {
+        "kod": "O6D5018JS",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 11090,
+        "stok_adedi": 78
+    },
+    {
+        "kod": "H9P3764JP",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 10235,
+        "stok_adedi": 418
+    },
+    {
+        "kod": "L2O9557GD",
+        "ad": "Amortisor",
+        "fiyat_tl": 857,
+        "stok_adedi": 480
+    },
+    {
+        "kod": "V1I1622OB",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 4185,
+        "stok_adedi": 398
+    },
+    {
+        "kod": "U9C1432BH",
+        "ad": "Aku-24V",
+        "fiyat_tl": 1703,
+        "stok_adedi": 367
+    },
+    {
+        "kod": "I2I3178LX",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 5238,
+        "stok_adedi": 389
+    },
+    {
+        "kod": "S1U4504CL",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 3917,
+        "stok_adedi": 458
+    },
+    {
+        "kod": "Q3X4036WR",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 8529,
+        "stok_adedi": 306
+    }
+]}

@@ -1,0 +1,83 @@
+{
+    "arac_modeli":"ELF-2600",
+    "parca_katalogu":
+[
+    {
+        "kod": "A7H2508MW",
+        "ad": "On-Fren-Diski",
+        "fiyat_tl": 7036,
+        "stok_adedi": 498
+    },
+    {
+        "kod": "X7B7882TQ",
+        "ad": "Yag-Filtresi",
+        "fiyat_tl": 12911,
+        "stok_adedi": 160
+    },
+    {
+        "kod": "T9S1570DN",
+        "ad": "Hava-Filtresi",
+        "fiyat_tl": 11540,
+        "stok_adedi": 34
+    },
+    {
+        "kod": "K1K6352NL",
+        "ad": "Motor-Yagi-5W30",
+        "fiyat_tl": 5484,
+        "stok_adedi": 4
+    },
+    {
+        "kod": "J9O5609HQ",
+        "ad": "Silecek-Takimi",
+        "fiyat_tl": 9516,
+        "stok_adedi": 163
+    },
+    {
+        "kod": "Z9O9265CM",
+        "ad": "DPF-Filtresi",
+        "fiyat_tl": 11409,
+        "stok_adedi": 263
+    },
+    {
+        "kod": "K9U4411MZ",
+        "ad": "Fren-Balatasi",
+        "fiyat_tl": 6182,
+        "stok_adedi": 206
+    },
+    {
+        "kod": "T1W9390QE",
+        "ad": "Amortisor",
+        "fiyat_tl": 14633,
+        "stok_adedi": 231
+    },
+    {
+        "kod": "P6V2930UK",
+        "ad": "Mars-Motoru",
+        "fiyat_tl": 2408,
+        "stok_adedi": 204
+    },
+    {
+        "kod": "P9F2916KD",
+        "ad": "Aku-24V",
+        "fiyat_tl": 10001,
+        "stok_adedi": 225
+    },
+    {
+        "kod": "K3I4868PS",
+        "ad": "Enjektor-Takimi",
+        "fiyat_tl": 4391,
+        "stok_adedi": 171
+    },
+    {
+        "kod": "Q4V3861EW",
+        "ad": "Su-Pompasi",
+        "fiyat_tl": 6321,
+        "stok_adedi": 290
+    },
+    {
+        "kod": "U2S3552OL",
+        "ad": "V-Kayisi",
+        "fiyat_tl": 4236,
+        "stok_adedi": 227
+    }
+]}
