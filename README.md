@@ -1,3 +1,4 @@
+🌐 **Dil:** Türkçe | [English](README.en.md)
 ## Anadolu Isuzu Teknik Servis Chatbot Asistanı (Staj Projesi)
 
 Anadolu Isuzu çalışanları için geliştirilmiş, yerel LLM kullanan RAG ve tool-calling tabanlı bir teknik asistandır. Sistem; bakım kılavuzları, parça katalogları, garanti kayıtları ve bakım planlarından oluşan sentetik veriler üzerinde çalışır. Kullanıcının aldığı cevabı beğenmemesi durumunda Websocket tabanlı teknik servis yetkilileri ile canlı sohbet özelliğine sahiptir.
@@ -9,7 +10,7 @@ Anadolu Isuzu çalışanları için geliştirilmiş, yerel LLM kullanan RAG ve t
 
 - [Mimari](#mimari)
 - [Dosya Ağacı](#mimari)
-- [Gereksinimler](#dosya-ağacı)
+- [Gereksinimler](#gereksinimler)
 - [Kurulum](#kurulum)
 - [Konfigürasyon](#konfigürasyon)
 - [Hızlı başlangıç](#hızlı-başlangıç)
